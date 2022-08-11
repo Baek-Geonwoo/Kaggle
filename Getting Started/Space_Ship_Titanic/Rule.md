@@ -22,5 +22,5 @@ This file introduce about rule in HUFSTUDY, HUFS Data Scientist Team Project
     Ex) SpaceShip_Transported_Prediction_Xgboost_Classifier
 - Commit form should be submitted by this form : 
   - "Upload [File name] [date/time]" or "Update [File name] [date/time]"
-    EX) Upload KJUW_submission_1 22.09.11 21:27
-    EX) Update SpaceShip_Transported_Prediction_Xgboost_Classifier 22.09.11 21:27
+    EX) Upload KJW_submission_1 22.08.11 21:27
+    EX) Update SpaceShip_Transported_Prediction_Xgboost_Classifier 22.08.11 21:27
